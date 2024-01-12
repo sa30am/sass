@@ -8,6 +8,7 @@ def fibonacci(n):
     return fib_sequence
 
 # Example usage
+# statrt from here
 user_input = int(input("Enter the number of terms for the Fibonacci sequence: "))
 
 if user_input <= 0:
