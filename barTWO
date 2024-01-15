@@ -6,7 +6,7 @@ def fibonacci(n):
         fib_sequence.append(next_term)
 
     return fib_sequence
-
+#no
 Else
 # Example usage
 # statrt from here
