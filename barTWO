@@ -4,7 +4,7 @@ def fibonacci(n):
     for i in range(2, n):
         next_term = fib_sequence[-1] + fib_sequence[-2]
         fib_sequence.append(next_term)
-
+for
     return fib_sequence
 #no
 Else
