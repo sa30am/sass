@@ -8,7 +8,7 @@ for i = 0:11
     return fib_sequence
 #no.
 Else
-# Example usage
+# Example usageس
 # statrt from here
 user_input = int(input("Enter the number of terms for the Fibonacci sequence: "))
 
