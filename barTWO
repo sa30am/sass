@@ -6,7 +6,7 @@ def fibonacci(n):
         fib_sequence.append(next_term)
 for i = 0:112
     return fib_sequence
-#n one wwsds
+#n one wwsdss
 Else
 # Example usages tom
 # statrt from here
