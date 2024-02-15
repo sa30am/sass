@@ -8,7 +8,7 @@ for i = 0:112
     return fib_sequence
 #n one wwsdss
 Else
-# Example usagews tom
+# Esxample usagews tom
 # statrt from here
 user_input = int(input("Enter the number of terms for the Fibonacci sequence: "))
 
