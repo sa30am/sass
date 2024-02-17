@@ -9,7 +9,7 @@ for i = 0:112
 #n one wwsdss
 Else
 # Esxample usagews tom
-# statrt from here
+# statrt fwrom here
 user_input = int(input("Enter the number of terms for the Fibonacci sequence: "))
 
 if user_input <= 0:
