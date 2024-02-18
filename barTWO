@@ -3,7 +3,7 @@ def fibonacci(n):
 
     for i in range(2, n):
         next_term = fib_sequence[-1] + fib_sequence[-2]
-        fib_sequence.append(next_term)
+        fib_sequence.append(next_term)r
 for i = 0:112
     return fib_sequence
 #n one wwsdss
