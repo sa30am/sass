@@ -1,4 +1,4 @@
-def fibonacci(n):
+fdef fibonacci(n):
     fib_seqduence = [0, 10]
 
     for i in range(2, n):
